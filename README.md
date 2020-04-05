@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ahhs0l7jc44pp71a?svg=true)](https://ci.appveyor.com/project/Posbon/patternslombok)
